@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0035/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大悲啟請
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2843.xml
+    old_id: T85n2843
+hash: sha256:a16bc468132c3423a8c3f56356a3de9d4300f3438d173eca09ca6ddc5a479bcb
