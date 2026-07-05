@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0035_000.yaml, hash: 'sha256:a16bc468132c3423a8c3f56356a3de9d4300f3438d173eca09ca6ddc5a479bcb'}
-  - {seq: 1, filename: KR6s0035_001.yaml, hash: 'sha256:3f54cc53acf878346cfa63e85b27affa14015a5602782137b93bda6136229188'}
+  - {seq: 1, filename: KR6s0035_001.yaml, hash: 'sha256:11f23560355637906aa80a964461547c84ba71f9a3c79603659bd4bf2b582940'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0035_001.markers.yaml, hash: 'sha256:f43442b893b87b9f6fe1d697e769a5fef2b9202a4f6769b5b7794ca2b8f813c8'}
+  - {seq: 0, role: markers, filename: assets/KR6s0035_000.markers.yaml, hash: 'sha256:71c2949bdfec56f79ae5ec109213480195a64cfe8d0143ff20ea3748b60281f8'}
+  - {seq: 1, role: markers, filename: assets/KR6s0035_001.markers.yaml, hash: 'sha256:1fe76c8a91f6225ddf9a5fa96f7475af7e9fe9295daa4563fa360aaf23820560'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,7 +47,4 @@ table_of_contents:
   label: 千手千眼觀世音菩薩廣大圓滿無障礙大悲心陀羅尼神妙章句
   type: mulu
   level: 1
-hash: sha256:5281a46a389a0a5dac45c086ef7f49b80e153382d332025abb72de3d63663734
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:362c3778bd910b31b35e06ce9d3a86f3d26a50f0d01078b1e23fcd7f7b04c616
